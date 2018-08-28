@@ -23,7 +23,7 @@ Best suited for two or three players.
 
 ## Final
 
-## Potpurri Scoring
+## Potpourri Scoring
 
 1. +1 point if contstant throws something on the floor.
 2. +1/2 point for sexual innuendo that makes a Paul or Prue uncomfortable.
