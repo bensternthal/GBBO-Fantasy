@@ -18,17 +18,20 @@ Best suited for two or three players.
 ### Showstopper Challenge
 
 ### Star Baker
+* +2 points for star baker.
+* +4 points if your captain gets star baker.
 
-## Semi Final Scoring
 
 ## Final
+* +2 points for winning.
+* +5 points if captain wins.
 
 ## Potpourri Scoring
 
-1. +1 point if contstant throws something on the floor.
-2. +1/2 point for sexual innuendo that makes a Paul or Prue uncomfortable.
-3. +2 points for a handshake from Paul Hollywood.
-4. -1 point if contestant cries from a failure.
-4. +1 point if contestant cries from a success.
-5. -1 point if contestant forgets a major ingredient.
-6. -2 points if contestant forgets to turn on the oven.
+* +1 point if contstant throws something on the floor.
+* +1/2 point for sexual innuendo that makes a Paul or Prue uncomfortable.
+* +2 points for a handshake from Paul Hollywood.
+* -1 point if contestant cries from a failure.
+* +1 point if contestant cries from a success.
+* -1 point if contestant forgets a major ingredient.
+* -2 points if contestant forgets to turn on the oven.
