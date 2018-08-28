@@ -17,8 +17,8 @@ Best suited for two-four players.
 | Points | Description |
 | --- | --- |
 | +3 | 1st Place |
-| +2 | Second Place |
-| +1 | Third Place |
+| +2 | 2nd Place |
+| +1 | 3rd Place |
 | +1 | Extra point if captain places in top three. |
 
 ### Showstopper Challenge
