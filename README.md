@@ -1,3 +1,6 @@
+![gbbo](/gbbo.gif)
+
+
 # GBBO Fantasy League
 How to play Great British Bake Off Fantasy League. Draft a team and get points depending on how they peform through the season.
 
