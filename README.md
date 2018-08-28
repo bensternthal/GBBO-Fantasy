@@ -9,7 +9,7 @@ Best suited for two-four players.
 2. Alternate choosing players, make sure to do your reasearch ([1](https://thegreatbritishbakeoff.co.uk/meet-class-2018/) & [2](https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_(series_9))):
 3. First person you draft is your "captain". All other draftees are equal.
 
-## Scoring Per Episode
+## Scoring
 
 ### Signature Challenge
 | Points | Description |
