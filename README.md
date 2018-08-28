@@ -24,9 +24,6 @@ Best suited for two-four players.
 ### Showstopper Challenge
 
 ### Star Baker
-* +2 points for star baker.
-* +4 points if your captain gets star baker.
-
 | Points | Description |
 | --- | --- |
 | +2 | Team member gets star baker. |
