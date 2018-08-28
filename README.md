@@ -2,7 +2,7 @@
 How to play Great British Bake Off Fantasy League. Draft a team and get points depending on how they peform through the season.
 
 ## Number Of Players
-Best suited for two or three players.
+Best suited for two-four players.
 
 ## Draft
 1. Flip a [hob-nob](https://en.wikipedia.org/wiki/Hobnob_biscuit) to decide who drafts first.
@@ -14,6 +14,12 @@ Best suited for two or three players.
 ### Signature Challenge
 
 ### Technical Challenge
+| Points | Description |
+| --- | --- |
+| +3 | 1st Place |
+| +2 | Second Place |
+| +1 | Third Place |
+| +1 | Extra point if captain places in top three. |
 
 ### Showstopper Challenge
 
@@ -21,17 +27,29 @@ Best suited for two or three players.
 * +2 points for star baker.
 * +4 points if your captain gets star baker.
 
+| Points | Description |
+| --- | --- |
+| +2 | Team member gets star baker. |
+| +4 | Captain gets star baker. |
+
 
 ## Final
-* +2 points for winning.
-* +5 points if captain wins.
+| Points | Description |
+| --- | --- |
+| +2 | Team member wins final. |
+| +5 | Captain wins final. |
+
+
 
 ## Potpourri Scoring
+| Points | Description |
+| --- | --- |
+| +1 | Team member throws something on floor. |
+| +1 | Sexual innuendo that makes Paul or Prue uncomfortable. |
+| +2 | Handhsake from Paul |
+| -1 | Contestant cries from a mistake. |
+| +1 | Contestant cries from a success. |
+| -1 | Contestant forgets a major ingredient |
+| -3 | Contestant forgets to turn on the oven |
 
-* +1 point if contstant throws something on the floor.
-* +1/2 point for sexual innuendo that makes a Paul or Prue uncomfortable.
-* +2 points for a handshake from Paul Hollywood.
-* -1 point if contestant cries from a failure.
-* +1 point if contestant cries from a success.
-* -1 point if contestant forgets a major ingredient.
-* -2 points if contestant forgets to turn on the oven.
+
