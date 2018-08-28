@@ -24,7 +24,7 @@ Best suited for two-four players.
 ### Showstopper Challenge
 | Points | Description |
 | --- | --- |
-| -1 | Caramel is burned or seizes. |
+| -1 | Caramel fail. |
 | -3 | Failure to make caramel two times or more. |
 
 ### Star Baker
