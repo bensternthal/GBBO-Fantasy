@@ -22,6 +22,10 @@ Best suited for two-four players.
 | +1 | Extra point if captain places in top three. |
 
 ### Showstopper Challenge
+| Points | Description |
+| --- | --- |
+| -1 | Caramel is burned or seizes. |
+| -3 | Failure to make caramel two times or more. |
 
 ### Star Baker
 | Points | Description |
