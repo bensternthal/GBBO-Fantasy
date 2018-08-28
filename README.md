@@ -12,6 +12,10 @@ Best suited for two-four players.
 ## Scoring Per Episode
 
 ### Signature Challenge
+| Points | Description |
+| --- | --- |
+| +2 | Handhsake from Paul |
+| -2 | Soggy Bottom! |
 
 ### Technical Challenge
 | Points | Description |
@@ -20,11 +24,15 @@ Best suited for two-four players.
 | +2 | 2nd Place |
 | +1 | 3rd Place |
 | +1 | Extra point if captain places in top three. |
+| +2 | Handhsake from Paul |
+| -2 | Soggy Bottom! |
 
 ### Showstopper Challenge
 | Points | Description |
 | --- | --- |
 | +1 | Bake resembles either a penis or a poop. |
+| +2 | Handhsake from Paul |
+| -2 | Soggy Bottom! |
 | -1 | Caramel fail. |
 | -3 | Failure to make caramel two times or more. |
 
@@ -48,7 +56,6 @@ Best suited for two-four players.
 | --- | --- |
 | +1 | Team member throws something on floor. |
 | +1 | Sexual innuendo that makes Paul or Prue uncomfortable. |
-| +2 | Handhsake from Paul |
 | -1 | Contestant cries from a mistake. |
 | +1 | Contestant cries from a success. |
 | -1 | Contestant forgets a major ingredient |
