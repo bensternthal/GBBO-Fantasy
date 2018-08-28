@@ -24,6 +24,7 @@ Best suited for two-four players.
 ### Showstopper Challenge
 | Points | Description |
 | --- | --- |
+| +1 | Bake resembles either a penis or a poop. |
 | -1 | Caramel fail. |
 | -3 | Failure to make caramel two times or more. |
 
