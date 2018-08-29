@@ -17,7 +17,7 @@ Best suited for two-four players.
 ### Signature Challenge
 | Points | Description |
 | --- | --- |
-| +2 | Handhsake from Paul |
+| +2 | Handhsake from Paul, extra point if during bread week. |
 | -2 | Soggy Bottom! |
 
 ### Technical Challenge
