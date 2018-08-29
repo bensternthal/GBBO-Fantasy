@@ -33,7 +33,7 @@ Best suited for two to four players.
 ### Showstopper Challenge
 | Points | Description |
 | --- | --- |
-| +2 | Paul or Prue say "wow". |
+| +1 | Paul or Prue say "wow" (1 point for each occurance) |
 | -2 | Soggy Bottom or Something is Undercooked |
 | -4 | Contestant drops or showstopper falls apart when walking to the gingham alter. |
 
