@@ -2,7 +2,7 @@
 
 
 # GBBO Fantasy League
-How to play Great British Bake Off Fantasy League. Draft a team and get points depending on how they peform through the season.
+How to play The Great British Bake Off Fantasy League. Draft a team and get points depending on how they perform through the season.
 
 ## Number Of Players
 Best suited for two-four players.
