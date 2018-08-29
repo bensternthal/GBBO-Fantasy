@@ -17,7 +17,7 @@ Best suited for two to four players.
 ### Signature Challenge
 | Points | Description |
 | --- | --- |
-| +2 | Handhsake from Paul, extra point if handshake occurs during bread week. |
+| +2 | Handshake from Paul, extra point if handshake occurs during bread week. |
 | -2 | Soggy Bottom! |
 
 ### Technical Challenge
@@ -27,7 +27,7 @@ Best suited for two to four players.
 | +2 | 2nd Place |
 | +1 | 3rd Place |
 | +1 | Extra point if captain places in top three. |
-| +2 | Handhsake from Paul |
+| +2 | Handshake from Paul |
 | -2 | Soggy Bottom! |
 
 ### Showstopper Challenge
