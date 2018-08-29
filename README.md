@@ -53,7 +53,8 @@ Best suited for two to four players.
 ## Potpourri Scoring
 | Points | Description |
 | --- | --- |
-| +1 | Team member throws something on floor. |
+| +1 | Contestant throws something on floor (intentional). |
+| -1 | Contestant drops something on floor (unintentional). |
 | +1 | Sexual innuendo that makes Paul or Prue uncomfortable. |
 | -1 | Contestant cries from a mistake. |
 | +1 | Contestant cries from a success. |
