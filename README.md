@@ -33,8 +33,10 @@ Best suited for two to four players.
 ### Showstopper Challenge
 | Points | Description |
 | --- | --- |
-| +2 | Handhsake from Paul |
-| -2 | Soggy Bottom! |
+| +2 | Paul or Prue say "wow". |
+| -2 | Soggy Bottom or Something is Undercooked |
+| -4 | Contestant drops or showstopper falls apart when walking to the gingham alter. |
+
 
 ### Star Baker
 | Points | Description |
