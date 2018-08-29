@@ -2,22 +2,22 @@
 
 
 # GBBO Fantasy League
-How to play The Great British Bake Off Fantasy League. Draft a team and get points depending on how they perform through the season.
+How to play The Great British Bake Off Fantasy League: draft a team and get points depending on how they perform throughout the season.
 
 ## Number Of Players
-Best suited for two-four players.
+Best suited for two to four players.
 
 ## Draft
-1. Flip a [hob-nob](https://en.wikipedia.org/wiki/Hobnob_biscuit) to decide who drafts first.
+1. Flip a [Hob-nob](https://en.wikipedia.org/wiki/Hobnob_biscuit) to decide who drafts first.
 2. Alternate choosing players, make sure to do your reasearch ([1](https://thegreatbritishbakeoff.co.uk/meet-class-2018/) & [2](https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_(series_9))):
-3. First person you draft is your "captain". All other draftees are equal.
+3. First person you draft is your "captain." All other draftees are equal.
 
 ## Scoring
 
 ### Signature Challenge
 | Points | Description |
 | --- | --- |
-| +2 | Handhsake from Paul, extra point if during bread week. |
+| +2 | Handhsake from Paul, extra point if handshake occurs during bread week. |
 | -2 | Soggy Bottom! |
 
 ### Technical Challenge
