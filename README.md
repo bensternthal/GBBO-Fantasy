@@ -64,7 +64,7 @@ Best suited for two to four players.
 | -3 | Contestant forgets to turn on the oven. |
 | +1 | Bake resembles either a penis or a 💩. |
 | -1 | Caramel fail. |
-| -3 | Failure to make caramel two or more times. |
+| -3 | Two or more consecutive caramel fails. |
 
 
 
