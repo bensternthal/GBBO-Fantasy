@@ -33,11 +33,8 @@ Best suited for two-four players.
 ### Showstopper Challenge
 | Points | Description |
 | --- | --- |
-| +1 | Bake resembles either a penis or a 💩. |
 | +2 | Handhsake from Paul |
 | -2 | Soggy Bottom! |
-| -1 | Caramel fail. |
-| -3 | Failure to make caramel two or more times. |
 
 ### Star Baker
 | Points | Description |
@@ -45,14 +42,11 @@ Best suited for two-four players.
 | +2 | Team member gets star baker. |
 | +4 | Captain gets star baker. |
 
-
 ## Final
 | Points | Description |
 | --- | --- |
 | +2 | Team member wins final. |
-| +5 | Captain wins final. |
-
-
+| +8 | Captain wins final. |
 
 ## Potpourri Scoring
 | Points | Description |
@@ -61,7 +55,14 @@ Best suited for two-four players.
 | +1 | Sexual innuendo that makes Paul or Prue uncomfortable. |
 | -1 | Contestant cries from a mistake. |
 | +1 | Contestant cries from a success. |
-| -1 | Contestant forgets a major ingredient |
-| -3 | Contestant forgets to turn on the oven |
+| -1 | Contestant forgets a major ingredient. |
+| -1 | Contestant can't roll a swiss roll! |
+| -1 | Contestant cuts themselves. Extra -1 if a medic is involved. |
+| -3 | Contestant forgets to turn on the oven. |
+| +1 | Bake resembles either a penis or a 💩. |
+| -1 | Caramel fail. |
+| -3 | Failure to make caramel two or more times. |
+
+
 
 
