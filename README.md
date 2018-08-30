@@ -13,6 +13,7 @@ Best suited for two to four players.
 3. First person you draft is your "captain." All other draftees are equal.
 
 ## Scoring
+Prior to each episode you can choose a new captain for that episode.
 
 ### Signature Challenge
 | Points | Description |
