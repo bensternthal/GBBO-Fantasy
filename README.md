@@ -11,6 +11,7 @@ Best suited for two to four players.
 1. Flip a [Hob-nob](https://en.wikipedia.org/wiki/Hobnob_biscuit) to decide who drafts first.
 2. Alternate choosing players, make sure to do your reasearch ([1](https://thegreatbritishbakeoff.co.uk/bakers/series-9/) & [2](https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_(series_9))):
 3. First person you draft is your "captain." All other draftees are equal.
+4. Feel free to use [this template](https://docs.google.com/spreadsheets/d/1P__zc4jc638WBl_MPb1T2o05ou97sRpo7Os7VMjWFNc/edit?usp=sharing) to track your team and scores. 
 
 ## Scoring
 Prior to each episode you can choose a new captain for that episode.
