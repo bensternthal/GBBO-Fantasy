@@ -19,6 +19,7 @@ Prior to each episode you can choose a new captain for that episode.
 | Points | Description |
 | --- | --- |
 | +2 | Handshake from Paul, extra point if handshake occurs during bread week. |
+| +1 | Every occurance of "Nice Job!" |
 | -2 | Soggy Bottom! |
 
 ### Technical Challenge
