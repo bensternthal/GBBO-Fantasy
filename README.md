@@ -30,12 +30,13 @@ Prior to each episode you can choose a new captain for that episode. Feel free t
 | +2 | 2nd Place |
 | +1 | 3rd Place |
 | +1 | Extra point if captain places in top three. |
-| +2 | Handshake from Paul |
+| +2 | Handshake from Paul, extra point if handshake occurs during bread week. |
 | -2 | Soggy Bottom! |
 
 ### Showstopper Challenge
 | Points | Description |
 | --- | --- |
+| +2 | Handshake from Paul, extra point if handshake occurs during bread week. |
 | +1 | Paul or Prue say "wow" (1 point for each occurance) |
 | -2 | Soggy Bottom or Something is Undercooked |
 | -4 | Contestant drops or showstopper falls apart when walking to the gingham alter. |
