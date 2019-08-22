@@ -14,7 +14,7 @@ Best suited for two to four players.
 4. Feel free to use [this template](https://docs.google.com/spreadsheets/d/1P__zc4jc638WBl_MPb1T2o05ou97sRpo7Os7VMjWFNc/edit?usp=sharing) to track your team and scores. 
 
 ## Scoring
-Prior to each episode you can choose a new captain for that episode. Feel free to score during while watching, results are also posted to the wikipedia page https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_(series_9)
+Prior to each episode you can choose a new captain for that episode. Feel free to score during while watching, results are also posted to the wikipedia page https://en.wikipedia.org/wiki/The_Great_British_Bake_Off
 
 ### Signature Challenge
 | Points | Description |
